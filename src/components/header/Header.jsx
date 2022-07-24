@@ -1,10 +1,7 @@
 import React from 'react';
 import SearchIcon from '@mui/icons-material/Search';
-import Badge from '@mui/material/Badge';
-import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 import myImage from '../../assets/logo.png';
-import {Container,Wrapper, Left, LanguageIconContainer, Language, SearchContainer, Input, Center, LogoImg ,Logo, Right, MenuItem} from './header-styled'
-import LanguageIcon from '@mui/icons-material/Language';
+import {Container,Wrapper, Left, SearchContainer, Input, Center, LogoImg ,Logo, Right} from './header-styled'
 import styled from 'styled-components';
  const LogoImgBig = styled.img`
   width: 30%;
