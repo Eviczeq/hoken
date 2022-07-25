@@ -50,7 +50,7 @@ const Banner = () => {
     <Page style={{right: scrollY >400 ? "-999999999999999px" : "0px"}}>
       <Title  >
         <LinkContainer
-        href="../survey/Survey.jsx"
+        href="#"
         target="_blank"
         rel="noopener"
         primary>10秒で火災保険の試算</LinkContainer>
